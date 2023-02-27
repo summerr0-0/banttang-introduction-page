@@ -2,14 +2,20 @@
 
 [플레이스토어](https://play.google.com/store/apps/details?id=com.hproject.banttang)
 
-[반땅 소개](https://hside-project.github.io/banttang-landing/#/)1
+[반땅 소개](https://hside-project.github.io/banttang-landing/#/)
 
 
 반땅은 지역 커뮤니티 애플리케이션 입니다
 혼자 사기에 많은 물건과 음식들을 사람을 모아 같이 구매할 수 있습니다!
 
+# 사용 기술
 
-### 기능 상세
+- java11, Spring boot, Spring Security, MySQL, JPA, QueryDSL, Junit5, EC2, RDS, S3
+
+
+--- 
+
+# 기능 상세
 
 # 로그인/ 회원가입
 
